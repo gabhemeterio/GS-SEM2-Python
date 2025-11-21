@@ -17,7 +17,7 @@ Global Solution – Futuro do Trabalho
 5. [Como a solução endereça o problema](#5-como-a-solução-endereça-o-problema)  
 6. [Arquitetura da solução em Python](#6-arquitetura-da-solução-em-python)  
 7. [Documentação das funções por módulo](#7-documentação-das-funções-por-módulo)  
-8. [Guia de uso – Aplicação principal em Python (modo texto)](#8-guia-de-uso--aplicação-principal-em-python-modo-texto)  
+8. [Guia de uso – Aplicação principal em Python](#8-guia-de-uso--aplicação-principal-em-python-modo-texto)  
 9. [Guia de uso – Protótipo em Streamlit](#9-guia-de-uso--protótipo-em-streamlit)  
 10. [Conclusão](#10-conclusão)
 
